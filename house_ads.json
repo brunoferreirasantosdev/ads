@@ -1,0 +1,10 @@
+{
+  "ads": [
+    {
+      "id": "lista_certa",
+      "name": "ListaCerta",
+      "iconAsset": "https://raw.githubusercontent.com/SEU_USUARIO/ads/main/ads/lista_certa_icon.png",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.tools.ListaCerta"
+    }
+  ]
+}
